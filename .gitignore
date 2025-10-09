@@ -1,0 +1,42 @@
+# Replit specific
+.replit
+.local/
+
+# System Files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Node modules (if any in future)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directories
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Media files (if you want to track them via Git LFS in future)
+# Uncomment and use if you plan to use Git LFS for media files
+#*.mp4
+#*.mov
+#*.m4a
+#*.jpg
+#*.jpeg
+#*.png
+#*.gif
