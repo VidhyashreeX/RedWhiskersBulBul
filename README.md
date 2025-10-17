@@ -1,4 +1,4 @@
-# Red-whiskered Bulbul aka Beta!
+# Red-whiskered Bulbul a.k.a Beta!
 ## Overview
 
 This is a personal website where i designed to celebrate the Red-whiskered Bulbul (Pycnonotus jocosus) that has been nesting in the owner's home since 2022. It's a combinaiton of personal storytelling with some content about the bird species, some  multimedia galleries with photos, videos, and audio recordings. I have also added tamil version for my mom.
@@ -19,8 +19,7 @@ This is a personal website where i designed to celebrate the Red-whiskered Bulbu
 - **Background Effects**: Fixed radial gradients create subtle wave patterns with smooth animations
 
 ### Media Management
-- **Rationale**: Simple folder structure suitable for static hosting; no CDN or database needed
-
+-Simple folder structure suitable for static hosting;
 **Video Playback Control**: JavaScript ensures only one video plays at a time
 - **Implementation**: Event listeners pause other videos when one starts playing
 - **Rationale**: Prevents audio overlap and improves user experience
